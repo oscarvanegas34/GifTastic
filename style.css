@@ -1,0 +1,9 @@
+body {
+    background-image: url("images/milky-way.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.navbar {
+    background-color: #336699;   
+}
